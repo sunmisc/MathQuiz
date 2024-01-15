@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AstoriaMathQuiz">
+    <output-path>$USER_HOME$/Desktop/сбор очка/plugins</output-path>
+    <root id="archive" name="AstoriaMathQuiz.jar">
+      <element id="module-output" name="AstoriaMathQuiz" />
+    </root>
+  </artifact>
+</component>
