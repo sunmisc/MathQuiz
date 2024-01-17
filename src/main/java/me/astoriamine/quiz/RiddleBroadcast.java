@@ -10,10 +10,10 @@ import org.bukkit.scheduler.BukkitRunnable;
 
 
 public class RiddleBroadcast implements Node<Double>, Front {
-    private static final int PERIOD = 20_000;
-    private static final int DEPTH = 2;
+    private static final int PERIOD = 2_000;
+    private static final int DEPTH = 1;
     private static final int MAX_NUMBER = 100;
-    private static final int DECIMAL_POINTS = 1;
+    private static final int DECIMAL_POINTS = 0;
 
     private final Plugin plugin;
     private final Back<Double> back;

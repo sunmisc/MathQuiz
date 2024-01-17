@@ -2,6 +2,9 @@ name: AstoriaMathQuiz
 main: me.astoriamine.quiz.Main
 version: 1.0
 
+softdepend:
+  - Vault
+
 api-version: 1.14
 
 author: SunmiscUnsafe
